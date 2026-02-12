@@ -125,7 +125,7 @@ button:active{background:#0d47a1}
 </style>
 </head>
 <body>
-<h1>&#x26FD; Hub Fuel Counter</h1>
+<h1>Hub Fuel Counter</h1>
 <div id="total">0</div>
 <div class="lanes">
   <div class="lane" id="l1box"><div class="lane-label">Lane 1</div><div class="lane-count" id="l1">0</div></div>
